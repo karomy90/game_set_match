@@ -1,0 +1,323 @@
+[
+
+    
+  {
+    "id": "player1",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Matteo Darmian",
+    "image": "assets/player_images/darmian.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player2",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Thorgan Hazard",
+    "image": "assets/player_images/hazard.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player3",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Radamel Falcao",
+    "image": "assets/player_images/falcao.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player4",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Ángel Di María",
+    "image": "assets/player_images/angel.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player5",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Edin Džeko",
+    "image": "assets/player_images/dzeko.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player6",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Cesc Fàbregas",
+    "image": "assets/player_images/fabregas.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player7",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "James Rodríguez",
+    "image": "assets/player_images/james.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player8",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Álvaro Morata",
+    "image": "assets/player_images/morata.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player9",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Memphis Depay",
+    "image": "assets/player_images/depay.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player10",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Philippe Coutinho",
+    "image": "assets/player_images/coutinho.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player11",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Ivan Perišić",
+    "image": "assets/player_images/perisic.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player12",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Gonzalo Higuaín",
+    "image": "assets/player_images/higuain.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player13",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Nemanja Matić",
+    "image": "assets/player_images/matic.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player14",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Juan Cuadrado",
+    "image": "assets/player_images/cuadrado.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player15",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Henrikh Mkhitaryan",
+    "image": "assets/player_images/mkhitaryan.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player16",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Stevan Jovetić",
+    "image": "assets/player_images/jovetic.png",
+    "difficulty": 3,
+    "audioPath": null
+  },
+  {
+    "id": "player17",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Yohan Cabaye",
+    "image": "assets/player_images/cabaye.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player18",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Arturo Vidal",
+    "image": "assets/player_images/vidal.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player19",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Alexis Sánchez",
+    "image": "assets/player_images/sanchez.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player20",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Mario Balotelli",
+    "image": "assets/player_images/balotelli.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player21",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Samuel Eto'o",
+    "image": "assets/player_images/etoo.png",
+    "difficulty": 3,
+    "audioPath": null
+  },
+  {
+    "id": "player22",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Gabriel Magalhães",
+    "image": "assets/player_images/magalhaes.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player23",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Callum Hudson-Odoi",
+    "image": "assets/player_images/odoi.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player24",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Khvicha Kvaratskhelia",
+    "image": "assets/player_images/kvara.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player25",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Amad Diallo",
+    "image": "assets/player_images/amad.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player26",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Ben White",
+    "image": "assets/player_images/white.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player27",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Amadou Onana",
+    "image": "assets/player_images/onana.png",
+    "difficulty": 4,
+    "audioPath": null
+  },
+  {
+    "id": "player28",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Nuno Tavares",
+    "image": "assets/player_images/tavares.png",
+    "difficulty": 4,
+    "audioPath": null
+  },
+  {
+    "id": "player29",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Clément Lenglet",
+    "image": "assets/player_images/lenglet.png",
+    "difficulty": 3,
+    "audioPath": null
+  },
+  {
+    "id": "player30",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Alessandro Bastoni",
+    "image": "assets/player_images/bastoni.png",
+    "difficulty": 2,
+    "audioPath": null
+  },
+  {
+    "id": "player31",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Pablo Sarabia",
+    "image": "assets/player_images/sarabia.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+
+  
+  {
+    "id": "player32",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Carlos Tévez",
+    "image": "assets/player_images/tevez.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player33",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Renato Sanches",
+    "image": "assets/player_images/renato.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player34",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Julian Draxler",
+    "image": "assets/player_images/draxler.png",
+    "difficulty": 1,
+    "audioPath": null
+  },
+  {
+    "id": "player35",
+    "category": "مسيرة لاعب",
+    "text": "من هو اللاعب الذي مر بهذه الأندية؟",
+    "answer": "Pierre-Emerick Aubameyang",
+    "image": "assets/player_images/auba.png",
+    "difficulty": 1,
+    "audioPath": null
+  }
+
+
+]

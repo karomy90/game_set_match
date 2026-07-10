@@ -1,0 +1,501 @@
+[
+
+  
+      
+
+  {
+    "id": "GOAL1",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ليونيل ميسي، نصف نهائي دوري الأبطال ضد ريال مدريد 2011",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_real2011.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_real2011_answer.mp4"
+  },
+  {
+    "id": "GOAL2",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "مارادونا، كأس العالم 1986 ضد إنجلترا",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/maradona_goal_of_century.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/maradona_goal_of_century_answer.mp4"
+  },
+  {
+    "id": "GOAL3",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "رونالدو،  ضد يوفنتوس في دوري الأبطال 2018",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_bicycle_juventus.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_bicycle_juventus_answer.mp4"
+  },
+  {
+    "id": "GOAL4",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أندريس إنييستا، نصف نهائي دوري الأبطال ضد تشيلسي 2009",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/iniesta_vs_chelsea.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/iniesta_vs_chelsea_answer.mp4"
+  },
+  {
+    "id": "GOAL5",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ماريو غوتزه، نهائي كأس العالم 2014",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/gotze_worldcup2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/gotze_worldcup2014_answer.mp4"
+  },
+
+  {
+    "id": "GOAL6",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "دينيس بيركامب،  ضد الأرجنتين في كأس العالم 1998",
+    "category": "خمن الهدف",
+    "difficulty": 4,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/berkamp_argentina1998.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/berkamp_argentina1998_answer.mp4"
+  },
+  {
+    "id": "GOAL7",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "رونالدينيو،  ضد تشيلسي في دوري الأبطال 2005",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ronaldinho_vs_chelsea2005.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ronaldinho_vs_chelsea2005_answer.mp4"
+  },
+  
+
+  {
+    "id": "GOAL8",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كريستيانو رونالدو، بورتو، 2009",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_porto2009.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_porto2009_answer.mp4"
+  },
+  {
+    "id": "GOAL9",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "غاريث بيل، ليفربول، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/bale_vs_liverpool2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/bale_vs_liverpool2018_answer.mp4"
+  },
+  {
+    "id": "GOAL10",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "روبن فان بيرسي، إسبانيا، 2014",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/vanpersie_vs_spain2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/vanpersie_vs_spain2014_answer.mp4"
+  },
+  {
+    "id": "GOAL11",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "يايا توريه، سندرلاند، 2013",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/yaya_vs_sunderland2013.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/yaya_vs_sunderland2013_answer.mp4"
+  },
+  {
+    "id": "GOAL12",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "لوكا مودريتش، الأرجنتين، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/modric_vs_argentina2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/modric_vs_argentina2018_answer.mp4"
+  },
+  {
+    "id": "GOAL13",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "سون هيونغ مين، بيرنلي، 2020",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_burnley2020.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_burnley2020_answer.mp4"
+  },
+  {
+    "id": "GOAL14",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كلاوديو ماركيزيو، إنجلترا، 2014",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/marchisio_vs_england2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/marchisio_vs_england2014_answer.mp4"
+  },
+  {
+    "id": "GOAL15",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "مسعود أوزيل، لودوغوريتس، 2016",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ozil_vs_ludogorets2016.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ozil_vs_ludogorets2016_answer.mp4"
+  },
+  {
+    "id": "GOAL16",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "آلان سانت-ماكسيمان، ولفرهامبتون، 2022",
+    "category": "خمن الهدف",
+    "difficulty": 4,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/maximin_vs_wolves2022.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/maximin_vs_wolves2022_answer.mp4"
+  },
+  {
+    "id": "GOAL17",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كيليان مبابي، الأرجنتين، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/mbappe_vs_argentina2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/mbappe_vs_argentina2018_answer.mp4"
+  },
+  {
+    "id": "GOAL18",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أنخيل دي ماريا، فرنسا، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/dimaria_vs_france2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/dimaria_vs_france2018_answer.mp4"
+  },
+
+  {
+    "id": "GOAL19",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "فيديريكو كييزا، إمبولي، 2023",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/chiesa_vs_empoli2023.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/chiesa_vs_empoli2023_answer.mp4"
+  },
+  {
+    "id": "GOAL20",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "لامين يامال، فرنسا، 2024",
+    "category": "خمن الهدف",
+    "difficulty": 4,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/yamal_vs_france2024.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/yamal_vs_france2024_answer.mp4"
+  },
+  {
+    "id": "GOAL21",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "رودري، إنتر ميلان، 2023",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/rodri_vs_inter2023.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/rodri_vs_inter2023_answer.mp4"
+  },
+  {
+    "id": "GOAL22",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أوليفيه جيرو، نابولي، 2023",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/giroud_vs_napoli2023.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/giroud_vs_napoli2023_answer.mp4"
+  },
+  {
+    "id": "GOAL23",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "رودري، بايرن ميونيخ، 2023",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/rodri_vs_bayern2023.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/rodri_vs_bayern2023_answer.mp4"
+  },
+  {
+    "id": "GOAL24",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أليخاندرو غارناتشو، إيفرتون، 2023",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/garnacho_vs_everton2023.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/garnacho_vs_everton2023_answer.mp4"
+  },
+  {
+    "id": "GOAL25",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كوبي ماينو، وولفرهامبتون، 2024",
+    "category": "خمن الهدف",
+    "difficulty": 4,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/mainoo_vs_wolves2024.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/mainoo_vs_wolves2024_answer.mp4"
+  },
+  {
+    "id": "GOAL26",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ليونيل ميسي، ريال مدريد، 2017",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_madrid2017.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_madrid2017_answer.mp4"
+  },
+  {
+    "id": "GOAL27",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "جادون سانشو، ليفربول، 2022",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/sancho_vs_liverpool2022.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/sancho_vs_liverpool2022_answer.mp4"
+  },
+  {
+    "id": "GOAL28",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ناصر الشاذلي، اليابان، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/chadli_vs_japan2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/chadli_vs_japan2018_answer.mp4"
+  },
+  {
+    "id": "GOAL29",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "إيدين هازارد، أرسنال، 2017",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/hazard_vs_arsenal2017.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/hazard_vs_arsenal2017_answer.mp4"
+  },
+  {
+    "id": "GOAL30",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أليساندرو ديل بييرو، ألمانيا، 2006",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/delpiero_vs_germany2006.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/delpiero_vs_germany2006_answer.mp4"
+  },
+  {
+    "id": "GOAL31",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "سون هيونغ مين، أرسنال، 2020",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_arsenal2020.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_arsenal2020_answer.mp4"
+  },
+  {
+    "id": "GOAL32",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "سون هيونغ مين، ألمانيا، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_germany2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/son_vs_germany2018_answer.mp4"
+  },
+
+  
+  {
+    "id": "GOAL33",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أليكس أوكسليد تشامبرلين، مانشستر سيتي، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/chamberlain_vs_city2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/chamberlain_vs_city2018_answer.mp4"
+  },
+  {
+    "id": "GOAL34",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "فابيو غروسو، ألمانيا، 2006",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/grosso_vs_germany2006.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/grosso_vs_germany2006_answer.mp4"
+  },
+  {
+    "id": "GOAL35",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "جيمي فاردي، ليفربول، 2016",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/vardy_vs_liverpool2016.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/vardy_vs_liverpool2016_answer.mp4"
+  },
+  {
+    "id": "GOAL36",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "زلاتان إبراهيموفيتش، إنجلترا، 2012",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_england2012.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_england2012_answer.mp4"
+  },
+  {
+    "id": "GOAL37",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كريستيانو رونالدو، ليفربول، 2014",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_liverpool2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_liverpool2014_answer.mp4"
+  },
+  {
+    "id": "GOAL38",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "بول بوغبا، سوانسي سيتي، 2016",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/pogba_vs_swansea2016.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/pogba_vs_swansea2016_answer.mp4"
+  },
+  {
+    "id": "GOAL39",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "إيدين هازارد، وست هام، 2019",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/hazard_vs_westham2019.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/hazard_vs_westham2019_answer.mp4"
+  },
+  {
+    "id": "GOAL40",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ماريو ماندزوكيتش، ريال مدريد، 2017",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/mandzukic_vs_madrid2017.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/mandzukic_vs_madrid2017_answer.mp4"
+  },
+  {
+    "id": "GOAL41",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "خاميس رودريغيز، أوروغواي، 2014",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/james_vs_uruguay2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/james_vs_uruguay2014_answer.mp4"
+  },
+  {
+    "id": "GOAL42",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "زلاتان إبراهيموفيتش، أندرلخت، 2013",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_anderlecht2013.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_anderlecht2013_answer.mp4"
+  },
+  {
+    "id": "GOAL43",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أليكسيس سانشيز، ريال مدريد، 2014",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/sanchez_vs_madrid2014.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/sanchez_vs_madrid2014_answer.mp4"
+  },
+  {
+    "id": "GOAL44",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كريستيانو رونالدو، أرسنال، 2009",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_arsenal2009.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ronaldo_vs_arsenal2009_answer.mp4"
+  },
+  {
+    "id": "GOAL45",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "زلاتان إبراهيموفيتش، ريال مدريد، 2010",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_madrid2010.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/ibrahimovic_vs_madrid2010_answer.mp4"
+  },
+  {
+    "id": "GOAL46",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كاسيميرو، نابولي، 2017",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/casemiro_vs_napoli2017.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/casemiro_vs_napoli2017_answer.mp4"
+  },
+  {
+    "id": "GOAL47",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "كريم بنزيما، ديبورتيفو لاكورونيا، 2010",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/benzema_vs_deportivo2010.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/benzema_vs_deportivo2010_answer.mp4"
+  },
+  {
+    "id": "GOAL48",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ليونيل ميسي، نيجيريا، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 1,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_nigeria2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_nigeria2018_answer.mp4"
+  },
+  {
+    "id": "GOAL49",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "سيفيوي تشابالالا، المكسيك، 2010",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/shabalala_vs_mexico2010.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/shabalala_vs_mexico2010_answer.mp4"
+  },
+  {
+    "id": "GOAL50",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "دافيد فيا، مانشستر يونايتد، 2011",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/villa_vs_united2011.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/villa_vs_united2011_answer.mp4"
+  },
+  {
+    "id": "GOAL51",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "إدين دجيكو، تشيلسي، 2017",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/dzeko_vs_chelsea2017.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/dzeko_vs_chelsea2017_answer.mp4"
+  },
+  {
+    "id": "GOAL52",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ليونيل ميسي، ميلان، 2013",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_milan2013.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/messi_vs_milan2013_answer.mp4"
+  },
+
+   {
+    "id": "GOAL53",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "أوسكار، يوفنتوس، 2012",
+    "category": "خمن الهدف",
+    "difficulty": 3,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/oscar_vs_juventus2012.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/oscar_vs_juventus2012_answer.mp4"
+  },
+  {
+    "id": "GOAL54",
+    "text": "من صاحب هذا الهدف؟",
+    "answer": "ناتشو، البرتغال، 2018",
+    "category": "خمن الهدف",
+    "difficulty": 2,
+    "video": "https://raw.githubusercontent.com/karomy90/video/main/nacho_vs_portugal2018.mp4",
+    "answerVideo": "https://raw.githubusercontent.com/karomy90/video/main/nacho_vs_portugal2018_answer.mp4"
+  }
+
+
+]

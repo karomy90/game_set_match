@@ -1,0 +1,889 @@
+[
+  {
+    "id": "q000",
+    "text": "ماهي عاصمة دولة الدنمارك؟",
+    "answer": "كوبنهاغن",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q001",
+    "text": "ماهي عاصمة دولة السعودية؟",
+    "answer": "الرياض",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q002",
+    "text": "ماهي عاصمة دولة نيوزيلندا؟",
+    "answer": "ويلينغتون",
+    "category": "بلدان وعواصم",
+    "difficulty": 3
+  },
+  {
+    "id": "q003",
+    "text": "ماهي عاصمة دولة أستراليا؟",
+    "answer": "كانبرا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q004",
+    "text": "ماهي عاصمة دولة اليابان؟",
+    "answer": "طوكيو",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q005",
+    "text": "ماهي عاصمة دولة النرويج؟",
+    "answer": "أوسلو",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q006",
+    "text": "ماهي عاصمة دولة روسيا؟",
+    "answer": "موسكو",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q007",
+    "text": "ماهي عاصمة دولة الهند؟",
+    "answer": "نيودلهي",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q008",
+    "text": "ماهي عاصمة دولة كندا؟",
+    "answer": "أوتاوا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q009",
+    "text": "ماهي عاصمة دولة المكسيك؟",
+    "answer": "مكسيكو سيتي",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q010",
+    "text": "ماهي عاصمة دولة السويد؟",
+    "answer": "ستوكهولم",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q011",
+    "text": "ماهي عاصمة دولة جنوب أفريقيا؟",
+    "answer": "بريتوريا",
+    "category": "بلدان وعواصم",
+    "difficulty": 3
+  },
+  {
+    "id": "q012",
+    "text": "ماهي عاصمة دولة المملكة المتحدة؟",
+    "answer": "لندن",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q013",
+    "text": "ماهي عاصمة دولة البرتغال؟",
+    "answer": "لشبونة",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q014",
+    "text": "ماهي عاصمة دولة اليونان؟",
+    "answer": "أثينا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q015",
+    "text": "ماهي عاصمة دولة كوريا الجنوبية؟",
+    "answer": "سول",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q016",
+    "text": "ماهي عاصمة دولة البرازيل؟",
+    "answer": "برازيليا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q017",
+    "text": "ماهي عاصمة دولة تركيا؟",
+    "answer": "أنقرة",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q018",
+    "text": "ماهي عاصمة دولة إندونيسيا؟",
+    "answer": "جاكرتا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q019",
+    "text": "ماهي عاصمة دولة الأرجنتين؟",
+    "answer": "بوينس آيرس",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q020",
+    "text": "ماهي عاصمة دولة تايلاند؟",
+    "answer": "بانكوك",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q021",
+    "text": "ماهي عاصمة دولة هولندا؟",
+    "answer": "أمستردام",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q022",
+    "text": "ماهي عاصمة دولة إيطاليا؟",
+    "answer": "روما",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q023",
+    "text": "ماهي عاصمة دولة سويسرا؟",
+    "answer": "برن",
+    "category": "بلدان وعواصم",
+    "difficulty": 2
+  },
+  {
+    "id": "q024",
+    "text": "ماهي عاصمة دولة إسبانيا؟",
+    "answer": "مدريد",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q025",
+    "text": "ماهي عاصمة دولة الولايات المتحدة؟",
+    "answer": "واشنطن ",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q026",
+    "text": "ماهي عاصمة دولة الصين؟",
+    "answer": "بكين",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q027",
+    "text": "ماهي عاصمة دولة ألمانيا؟",
+    "answer": "برلين",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q028",
+    "text": "ماهي عاصمة دولة فرنسا؟",
+    "answer": "باريس",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  {
+    "id": "q029",
+    "text": "ماهي عاصمة دولة مصر؟",
+    "answer": "القاهرة",
+    "category": "بلدان وعواصم",
+    "difficulty": 1
+  },
+  
+
+  {
+    "id": "q060",
+    "text": "علم أي دولة؟",
+    "answer": "الدنمارك",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/de.png"
+  },
+  {
+    "id": "q061",
+    "text": "علم أي دولة؟",
+    "answer": "السعودية",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/ksa.png"
+  },
+  {
+    "id": "q062",
+    "text": "علم أي دولة؟",
+    "answer": "نيوزيلندا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/nz.png"
+  },
+  {
+    "id": "q063",
+    "text": "علم أي دولة؟",
+    "answer": "أستراليا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/au.png"
+  },
+  {
+    "id": "q064",
+    "text": "علم أي دولة؟",
+    "answer": "اليابان",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/jp.png"
+  },
+  {
+    "id": "q065",
+    "text": "علم أي دولة؟",
+    "answer": "النرويج",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/nr.png"
+  },
+  {
+    "id": "q066",
+    "text": "علم أي دولة؟",
+    "answer": "روسيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/ru.png"
+  },
+  {
+    "id": "q067",
+    "text": "علم أي دولة؟",
+    "answer": "الهند",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/in.png"
+  },
+  {
+    "id": "q068",
+    "text": "علم أي دولة؟",
+    "answer": "كندا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/ca.png"
+  },
+  {
+    "id": "q069",
+    "text": "علم أي دولة؟",
+    "answer": "المكسيك",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/me.png"
+  },
+  {
+    "id": "q070",
+    "text": "علم أي دولة؟",
+    "answer": "السويد",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/sw.png"
+  },
+  {
+    "id": "q071",
+    "text": "علم أي دولة؟",
+    "answer": "جنوب أفريقيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/sa.png"
+  },
+  {
+    "id": "q072",
+    "text": "علم أي دولة؟",
+    "answer": "المملكة المتحدة",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/uk.png"
+  },
+  {
+    "id": "q073",
+    "text": "علم أي دولة؟",
+    "answer": "البرتغال",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/pr.png"
+  },
+  {
+    "id": "q074",
+    "text": "علم أي دولة؟",
+    "answer": "اليونان",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/gr.png"
+  },
+  {
+    "id": "q075",
+    "text": "علم أي دولة؟",
+    "answer": "كوريا الجنوبية",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/sk.png"
+  },
+  {
+    "id": "q076",
+    "text": "علم أي دولة؟",
+    "answer": "البرازيل",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/br.png"
+  },
+  {
+    "id": "q077",
+    "text": "علم أي دولة؟",
+    "answer": "تركيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/tu.png"
+  },
+  {
+    "id": "q078",
+    "text": "علم أي دولة؟",
+    "answer": "إندونيسيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/ind.png"
+  },
+  {
+    "id": "q079",
+    "text": "علم أي دولة؟",
+    "answer": "الأرجنتين",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/arg.png"
+  },
+  {
+    "id": "q080",
+    "text": "علم أي دولة؟",
+    "answer": "تايلاند",
+    "category": "بلدان وعواصم",
+    "difficulty": 2,
+    "image": "assets/countries_images/thi.png"
+  },
+  {
+    "id": "q081",
+    "text": "علم أي دولة؟",
+    "answer": "هولندا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/net.png"
+  },
+  {
+    "id": "q082",
+    "text": "علم أي دولة؟",
+    "answer": "إيطاليا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/it.png"
+  },
+  {
+    "id": "q083",
+    "text": "علم أي دولة؟",
+    "answer": "سويسرا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/swe.png"
+  },
+  {
+    "id": "q084",
+    "text": "علم أي دولة؟",
+    "answer": "إسبانيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/sp.png"
+  },
+  {
+    "id": "q085",
+    "text": "علم أي دولة؟",
+    "answer": "الولايات المتحدة",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/us.png"
+  },
+  {
+    "id": "q086",
+    "text": "علم أي دولة؟",
+    "answer": "الصين",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/ch.png"
+  },
+  {
+    "id": "q087",
+    "text": "علم أي دولة؟",
+    "answer": "ألمانيا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/ger.png"
+  },
+  {
+    "id": "q088",
+    "text": "علم أي دولة؟",
+    "answer": "فرنسا",
+    "category": "بلدان وعواصم",
+    "difficulty": 1,
+    "image": "assets/countries_images/fr.png"
+  },
+  
+
+  
+    {
+      "id": "q100",
+      "text": "ماهي عاصمة دولة العراق؟",
+      "answer": "بغداد",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q101",
+      "text": "ماهي عاصمة دولة فنزويلا؟",
+      "answer": "كاراكاس",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q102",
+      "text": "ماهي عاصمة دولة هنغاريا؟",
+      "answer": "بودابست",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+  
+    {
+      "id": "q104",
+      "text": "ماهي عاصمة دولة بلغاريا؟",
+      "answer": "صوفيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q105",
+      "text": "ماهي عاصمة دولة الجزائر؟",
+      "answer": "الجزائر",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q106",
+      "text": "ماهي عاصمة دولة الكويت؟",
+      "answer": "الكويت",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q107",
+      "text": "ماهي عاصمة دولة فيتنام؟",
+      "answer": "هانوي",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q108",
+      "text": "ماهي عاصمة دولة الإكوادور؟",
+      "answer": "كيتو",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q109",
+      "text": "ماهي عاصمة دولة أوكرانيا؟",
+      "answer": "كييف",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q110",
+      "text": "ماهي عاصمة دولة الإمارات؟",
+      "answer": "أبوظبي",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q111",
+      "text": "ماهي عاصمة دولة الأوروغواي؟",
+      "answer": "مونتفيديو",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q112",
+      "text": "ماهي عاصمة دولة كولومبيا؟",
+      "answer": "بوغوتا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q113",
+      "text": "ماهي عاصمة دولة نيجيريا؟",
+      "answer": "أبوجا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q114",
+      "text": "ماهي عاصمة دولة صربيا؟",
+      "answer": "بلغراد",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q115",
+      "text": "ماهي عاصمة دولة قطر؟",
+      "answer": "الدوحة",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q116",
+      "text": "ماهي عاصمة دولة كوريا الشمالية؟",
+      "answer": "بيونغ يانغ",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q117",
+      "text": "ماهي عاصمة دولة كينيا؟",
+      "answer": "نيروبي",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q118",
+      "text": "ماهي عاصمة دولة بيرو؟",
+      "answer": "ليما",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q119",
+      "text": "ماهي عاصمة دولة الأردن؟",
+      "answer": "عمّان",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q120",
+      "text": "ماهي عاصمة دولة تشيك؟",
+      "answer": "براغ",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q121",
+      "text": "ماهي عاصمة دولة كرواتيا؟",
+      "answer": "زغرب",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q122",
+      "text": "ماهي عاصمة دولة سلوفاكيا؟",
+      "answer": "براتيسلافا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q123",
+      "text": "ماهي عاصمة دولة تشيلي؟",
+      "answer": "سانتياغو",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q124",
+      "text": "ماهي عاصمة دولة رومانيا؟",
+      "answer": "بوخارست",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q125",
+      "text": "ماهي عاصمة دولة تونس؟",
+      "answer": "تونس",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q126",
+      "text": "ماهي عاصمة دولة البحرين؟",
+      "answer": "المنامة",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q127",
+      "text": "ماهي عاصمة دولة عمان؟",
+      "answer": "مسقط",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q128",
+      "text": "ماهي عاصمة دولة المغرب؟",
+      "answer": "الرباط",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q129",
+      "text": "ماهي عاصمة دولة بولندا؟",
+      "answer": "وارسو",
+      "category": "بلدان وعواصم",
+      "difficulty": 2
+    },
+    {
+      "id": "q160",
+      "text": "علم أي دولة؟",
+      "answer": "العراق",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/iraq.png"
+    },
+    {
+      "id": "q161",
+      "text": "علم أي دولة؟",
+      "answer": "فنزويلا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/ven.png"
+    },
+    {
+      "id": "q162",
+      "text": "علم أي دولة؟",
+      "answer": "هنغاريا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/hun.png"
+    },
+    
+    {
+      "id": "q164",
+      "text": "علم أي دولة؟",
+      "answer": "بلغاريا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/bul.png"
+    },
+    {
+      "id": "q165",
+      "text": "علم أي دولة؟",
+      "answer": "الجزائر",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/alg.png"
+    },
+    {
+      "id": "q166",
+      "text": "علم أي دولة؟",
+      "answer": "الكويت",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/kuw.png"
+    },
+    {
+      "id": "q167",
+      "text": "علم أي دولة؟",
+      "answer": "فيتنام",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/vit.png"
+    },
+    {
+      "id": "q168",
+      "text": "علم أي دولة؟",
+      "answer": "الإكوادور",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/ecu.png"
+    },
+    {
+      "id": "q169",
+      "text": "علم أي دولة؟",
+      "answer": "أوكرانيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/ukr.png"
+    },
+    {
+      "id": "q170",
+      "text": "علم أي دولة؟",
+      "answer": "الإمارات",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/UAE.png"
+    },
+    {
+      "id": "q171",
+      "text": "علم أي دولة؟",
+      "answer": "الأوروغواي",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/uru.png"
+    },
+    {
+      "id": "q172",
+      "text": "علم أي دولة؟",
+      "answer": "كولومبيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/colo.png"
+    },
+    {
+      "id": "q173",
+      "text": "علم أي دولة؟",
+      "answer": "نيجيريا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/nig.png"
+    },
+    {
+      "id": "q174",
+      "text": "علم أي دولة؟",
+      "answer": "صربيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/ser.png"
+    },
+    {
+      "id": "q175",
+      "text": "علم أي دولة؟",
+      "answer": "قطر",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/qa.png"
+    },
+    {
+      "id": "q176",
+      "text": "علم أي دولة؟",
+      "answer": "كوريا الشمالية",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/nk.png"
+    },
+    {
+      "id": "q177",
+      "text": "علم أي دولة؟",
+      "answer": "كينيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/ken.png"
+    },
+    {
+      "id": "q178",
+      "text": "علم أي دولة؟",
+      "answer": "بيرو",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/per.png"
+    },
+    {
+      "id": "q179",
+      "text": "علم أي دولة؟",
+      "answer": "الأردن",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/jor.png"
+    },
+    {
+      "id": "q180",
+      "text": "علم أي دولة؟",
+      "answer": "تشيك",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/cz.png"
+    },
+    {
+      "id": "q181",
+      "text": "علم أي دولة؟",
+      "answer": "كرواتيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/cro.png"
+    },
+    {
+      "id": "q182",
+      "text": "علم أي دولة؟",
+      "answer": "سلوفاكيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/slo.png"
+    },
+    {
+      "id": "q183",
+      "text": "علم أي دولة؟",
+      "answer": "تشيلي",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/chi.png"
+    },
+    {
+      "id": "q184",
+      "text": "علم أي دولة؟",
+      "answer": "رومانيا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/rom.png"
+    },
+    {
+      "id": "q185",
+      "text": "علم أي دولة؟",
+      "answer": "تونس",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/tun.png"
+    },
+    {
+      "id": "q186",
+      "text": "علم أي دولة؟",
+      "answer": "البحرين",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/bah.png"
+    },
+    {
+      "id": "q187",
+      "text": "علم أي دولة؟",
+      "answer": "عمان",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/om.png"
+    },
+    {
+      "id": "q188",
+      "text": "علم أي دولة؟",
+      "answer": "المغرب",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/mo.png"
+    },
+    {
+      "id": "q189",
+      "text": "علم أي دولة؟",
+      "answer": "بولندا",
+      "category": "بلدان وعواصم",
+      "difficulty": 2,
+      "image": "assets/countries_images/Poland.png"
+    }
+  
+
+]
+

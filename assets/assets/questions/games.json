@@ -1,0 +1,346 @@
+[
+  {
+    "id": "VGQ1",
+    "text": "ما اسم أول جهاز ألعاب أصدرته شركة سوني؟",
+    "answer": "بلايستيشن 1",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ2",
+    "text": "ما هو الجهاز المنافس لبلايستيشن من مايكروسوفت؟",
+    "answer": "إكس بوكس",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ3",
+    "text": "ما هو أول جهاز نينتندو محمول يحتوي على شاشتين؟",
+    "answer": "نينتندو DS",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ4",
+    "text": "في أي عام صدر جهاز بلايستيشن 5؟",
+    "answer": "2020",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ5",
+    "text": "ما اسم جهاز الألعاب من شركة نينتندو الذي يدمج بين المحمول والمنزلي؟",
+    "answer": "نينتندو سويتش",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ6",
+    "text": "ما هو اسم الخدمة السحابية للألعاب من مايكروسوفت؟",
+    "answer": "Xbox Cloud Gaming",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+
+  {
+    "id": "VGQ8",
+    "text": "ما اسم منصة الألعاب الشهيرة التابعة لشركة Valve؟",
+    "answer": "Steam",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ9",
+    "text": "أي جهاز ألعاب اشتهر بلعبة Tetris في الثمانينات؟",
+    "answer": "جيم بوي",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ10",
+    "text": "ما هو اسم الجهاز الذي أصدرته سوني بعد فشل PS Vita؟",
+    "answer": "لم تصدر جهازًا جديدًا محمولًا بعدها",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ11",
+    "text": "من هو السباك الشهير في ألعاب نينتندو؟",
+    "answer": "ماريو",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ12",
+    "text": "في لعبة God of War، ما اسم ابن كريتوس؟",
+    "answer": "أتريوس",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ13",
+    "text": "ما اسم البطلة في سلسلة Tomb Raider؟",
+    "answer": "لارا كروفت",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ14",
+    "text": "في لعبة The Last of Us، من هي الفتاة التي ترافق جويل؟",
+    "answer": "إيلي",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ15",
+    "text": "في أي لعبة يظهر الوحش المعروف باسم Creeper؟",
+    "answer": "ماينكرافت",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ16",
+    "text": "ما هي اللعبة التي تحتوي على مدينة ليبرتي سيتي؟",
+    "answer": "GTA",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ17",
+    "text": "ما اسم اللعبة التي فاز فيها جيرالت بلقب 'الذئب الأبيض'؟",
+    "answer": "The Witcher",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ18",
+    "text": "من هو العدو الرئيسي في لعبة Resident Evil 3؟",
+    "answer": "نيميسيس",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ19",
+    "text": "في أي لعبة تعتبر Umbrella Corporation شركة شريرة؟",
+    "answer": "Resident Evil",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ20",
+    "text": "من هو القاتل الرئيسي في سلسلة Hitman؟",
+    "answer": "العميل 47",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ21",
+    "text": "في أي سنة أُطلقت لعبة فورتنايت؟",
+    "answer": "2017",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ22",
+    "text": "ما اسم لعبة الباتل رويال التي تنافس فورتنايت وصدرَت من EA؟",
+    "answer": "Apex Legends",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ23",
+    "text": "ما هي أول لعبة ظهرت فيها شخصية بيكاتشو؟",
+    "answer": "بوكيمون ريد/بلو",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ24",
+    "text": "ما اسم أول لعبة فيديو في التاريخ؟",
+    "answer": "Pong",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ25",
+    "text": "في أي عام صدرت لعبة Call of Duty الأولى؟",
+    "answer": "2003",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ26",
+    "text": "أي جزء من سلسلة FIFA صدر في عام 2010؟",
+    "answer": "FIFA 10",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ27",
+    "text": "ما اسم السلسلة التي بدأت بلعبة 'Assassin's Creed'؟",
+    "answer": "Assassin's Creed",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ28",
+    "text": "في أي سنة ظهرت لعبة Minecraft لأول مرة؟",
+    "answer": "2009",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ29",
+    "text": "أي شركة طورت لعبة Cyberpunk 2077؟",
+    "answer": "CD Projekt Red",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ30",
+    "text": "ما اسم النسخة المجانية من Call of Duty؟",
+    "answer": "Warzone",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ31",
+    "text": "ما اسم اللعبة التي تشتهر بنظام البناء السريع ومعارك الباتل رويال؟",
+    "answer": "فورتنايت",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ32",
+    "text": "ما هي اللعبة التي انتشرت بشكل كبير بين اللاعبين بسبب الغدر داخل الطاقم؟",
+    "answer": "Among Us",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ33",
+    "text": "أي لعبة تعتمد على استخراج الموارد وبناء القواعد في الفضاء؟",
+    "answer": "No Man's Sky",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ34",
+    "text": "ما اسم الشخصية الرئيسية في لعبة Metal Gear Solid؟",
+    "answer": "سنيك",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ35",
+    "text": "في أي لعبة تقوم بجمع مخلوقات والقتال بها؟",
+    "answer": "بوكيمون",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ36",
+    "text": "أي لعبة شهيرة تعتمد على رقص اللاعبين باستخدام كاميرا؟",
+    "answer": "Just Dance",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ37",
+    "text": "ما اسم لعبة السباقات الشهيرة التي تستخدم سيارات صغيرة وشخصيات نينتندو؟",
+    "answer": "Mario Kart",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ38",
+    "text": "في لعبة PUBG، كم عدد اللاعبين في المباراة الواحدة الكاملة؟",
+    "answer": "100",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ39",
+    "text": "ما اسم لعبة العالم المفتوح التي تقع أحداثها في وايلد ويست؟",
+    "answer": "Red Dead Redemption",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ40",
+    "text": "من هو مبتكر لعبة Super Mario؟",
+    "answer": "شيغيرو مياموتو",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ41",
+    "text": "ما اسم لعبة القتال التي تضم شخصيات مثل Ryu وChun-Li؟",
+    "answer": "Street Fighter",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ42",
+    "text": "أي لعبة تتضمن الزومبي والدفاع عن النباتات؟",
+    "answer": "Plants vs. Zombies",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ43",
+    "text": "ما اسم اللعبة التي يتحكم فيها اللاعب بكائن وردي يمكنه امتصاص قدرات أعدائه؟",
+    "answer": "Kirby",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ44",
+    "text": "أي لعبة تجمع بين البناء والدفاع عن البرج باستخدام أدوات؟",
+    "answer": "Terraria",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ45",
+    "text": "ما هي الشركة المطورة للعبة League of Legends؟",
+    "answer": "Riot Games",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ46",
+    "text": "في أي لعبة يتحول البطل إلى ذئب في أحد أجزائها؟",
+    "answer": "The Legend of Zelda: Twilight Princess",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 3
+  },
+  {
+    "id": "VGQ47",
+    "text": "ما اسم شخصية سونيك عدوه اللدود؟",
+    "answer": "الدكتور إيغمان",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  },
+  {
+    "id": "VGQ48",
+    "text": "ما اسم لعبة الرعب النفسي التي تدور في منزل مظلم وتُعرف بصعوبة ألغازها؟",
+    "answer": "Silent Hill",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ49",
+    "text": "ما اسم اللعبة التي يتحكم فيها اللاعب بفتاة صغيرة تحمل فانوسًا؟",
+    "answer": "Little Nightmares",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 2
+  },
+  {
+    "id": "VGQ50",
+    "text": "في أي لعبة يظهر شخصية Link؟",
+    "answer": "The Legend of Zelda",
+    "category": "ألعاب إلكترونية",
+    "difficulty": 1
+  }
+]
