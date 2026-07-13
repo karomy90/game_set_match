@@ -820,14 +820,6 @@
       "image": "assets/countries_images/cro.png"
     },
     {
-      "id": "q182",
-      "text": "علم أي دولة؟",
-      "answer": "سلوفاكيا",
-      "category": "بلدان وعواصم",
-      "difficulty": 2,
-      "image": "assets/countries_images/slo.png"
-    },
-    {
       "id": "q183",
       "text": "علم أي دولة؟",
       "answer": "تشيلي",
@@ -858,14 +850,6 @@
       "category": "بلدان وعواصم",
       "difficulty": 2,
       "image": "assets/countries_images/bah.png"
-    },
-    {
-      "id": "q187",
-      "text": "علم أي دولة؟",
-      "answer": "عمان",
-      "category": "بلدان وعواصم",
-      "difficulty": 2,
-      "image": "assets/countries_images/om.png"
     },
     {
       "id": "q188",
