@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2e23a2d5fd8d3992a1029bec1a32ebab",
-"assets/AssetManifest.bin.json": "1be14f010e7b09f45afba2f4b8c593b8",
-"assets/AssetManifest.json": "33f64d1abaadee95d69fa3b60a9f5a13",
+const RESOURCES = {"assets/AssetManifest.bin": "e89faded9ca23dabd65ad4850b3a1ca5",
+"assets/AssetManifest.bin.json": "2cf8e0827f38d87b03391fb14d4cda6f",
+"assets/AssetManifest.json": "9025d00150ce3936d4f8dcedac993a5a",
 "assets/assets/anime_images/All_Might.png": "cc2726e3f00711bb1944bae944bc28df",
 "assets/assets/anime_images/Eren_Yeager.png": "0c8a4a173835b1071e10929a84ce8adf",
 "assets/assets/anime_images/Goku.png": "160956e9d5fa56fe37a78fda849859e7",
@@ -44,6 +44,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e23a2d5fd8d3992a1029bec1a32ebab
 "assets/assets/audio/pompeii.mp3": "fe24f607d44d55909e3c7a619ef2c4cd",
 "assets/assets/audio/send_them_off.mp3": "d8d743c53a14f80f68512ab0289aa18e",
 "assets/assets/audio/set_fire_to_the_rain.mp3": "3c809ce13f2be4d9c66a8c188a8bc3b9",
+"assets/assets/audio/sfx/break.wav": "9c9970396d963ced67fe9e02a8f8f288",
+"assets/assets/audio/sfx/match_win.wav": "83cd2c74bcdf5cec938558afabe43ee4",
+"assets/assets/audio/sfx/set_win.wav": "bce8940b2920df1db8d68442fb2205c4",
+"assets/assets/audio/sfx/tick.wav": "8289c2dd30bf273b79829f6023e45e2b",
+"assets/assets/audio/sfx/timeout.wav": "46bfbc62f2448a750e0dc881668faf51",
 "assets/assets/audio/shots.mp3": "386459f80beb9514153154327982da72",
 "assets/assets/audio/stereo_hearts.mp3": "01fcafb1a6d014b785bbc1274ebcee55",
 "assets/assets/audio/take_yours_ill_take_mine.mp3": "11e94a0f54b99e2fb66a942505e9b4ef",
@@ -214,9 +219,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "2e23a2d5fd8d3992a1029bec1a32ebab
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "869a48ef0b9aee25eadd3b598a250703",
-"/": "869a48ef0b9aee25eadd3b598a250703",
-"main.dart.js": "468bf6b2896beccdd3163058fc085ab3",
+"index.html": "499531daab7b9475e3a5187181098e44",
+"/": "499531daab7b9475e3a5187181098e44",
+"main.dart.js": "02c3d60441e50f8f6a20c9b1b689647c",
 "manifest.json": "241beacd1f14c76e1c15cefe376d2089",
 "version.json": "bd1ed2565c3536cf912164c96bc49de2"};
 // The application shell files that are downloaded before a service worker can
